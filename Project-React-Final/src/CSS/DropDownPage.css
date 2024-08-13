@@ -1,0 +1,53 @@
+/* Container styles */
+.container-fluid {
+    padding: 2rem 4rem; /* Padding on left and right */
+    background-color: #f0f0f0; /* Gray background for the container */
+}
+
+/* Col styles */
+.col-custom {
+    background-color: #fff;
+    border-radius: 0;
+    padding: 1.5rem;
+}
+
+/* DropdownButton styles */
+.dropdown-button {
+    width: 100%; /* Full width for consistency */
+    text-align: center; /* Center text alignment */
+    margin-bottom: 1rem;
+    padding: 0.5rem; /* Consistent padding */
+    border-radius: 4px; /* Optional: Add border-radius if needed */
+}
+
+/* Dropdown.Item styles */
+.dropdown-item {
+    padding: 0.5rem 1rem; /* Consistent padding for dropdown items */
+    text-align: center; /* Center text alignment */
+}
+
+/* Button styles */
+.button-custom {
+    width: 100%; /* Full width for consistency */
+    padding: 0.75rem; /* Extra padding */
+    background-color: #28a745; /* Green color */
+    border: none;
+    color: #fff;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 1rem; /* Margin on top */
+    font-size: 16px; /* Font size */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Button text and arrow styles */
+.button-text {
+    margin-right: 8px; /* Space between text and arrow */
+}
+
+.button-arrow {
+    margin-left: 8px; /* Space between text and arrow */
+    font-size: 18px; /* Font size for the arrow */
+}
